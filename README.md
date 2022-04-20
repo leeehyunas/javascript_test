@@ -1,2 +1,2 @@
-# javascript_test
-proprammers JS
+# javascript_study
+proprammers JS level1
