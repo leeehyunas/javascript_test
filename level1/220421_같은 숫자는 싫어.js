@@ -6,7 +6,6 @@ function solution(arr) {
 // const answerFunction = arr.forEach((item) => {
 //   if(!answer.includes(item)) answer.push(item) 
 // })
-  console.log(answer)
 }
 
 solution([1,1,3,4,7,7,7,9,9,1,1,9])
